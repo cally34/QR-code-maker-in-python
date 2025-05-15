@@ -1,2 +1,4 @@
 # QR-code-maker-in-python
-Make any link or text into a QR code and you can type in your own custom filename.
+
+In order to make this work you must enter these into your terminal of your code editor. 
+"pip install image" and "pip install qrcode"
